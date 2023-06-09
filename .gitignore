@@ -5,3 +5,4 @@ ESP32/ChickenSensorX/.pio/**
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+.DS_STORE
