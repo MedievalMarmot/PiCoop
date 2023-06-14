@@ -2,6 +2,7 @@
 
 '''
 lcdOut.py -
+Runs in the background on the rPi via commandline: $ nohup ./lcdOut.py &
 connects to the MQTT broker as a client and displays temp values published by the ESP32 and the BME280 module
 The LCD module is connected to the rPi via I2C
 '''

@@ -2,6 +2,7 @@
 
 '''
 mpu6050.py -
+Runs in the background on the rPi via commandline: $ nohup ./mpu6050.py &
 connects to the MPU6050 gyro / accelerometer module connected to the rPi via I2C and publishes the output to the MQTT broker
 '''
 
