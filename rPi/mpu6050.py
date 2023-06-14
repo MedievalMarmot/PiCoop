@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 
+'''
+mpu6050.py -
+connects to the MPU6050 gyro / accelerometer module connected to the rPi via I2C and publishes the output to the MQTT broker
+'''
+
 import smbus
 import time
 import random
