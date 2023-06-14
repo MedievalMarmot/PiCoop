@@ -70,3 +70,6 @@ sorts of weather) but I thought it'd be a good project to learn some new technol
   - https://randomnerdtutorials.com/vs-code-platformio-ide-esp32-esp8266-arduino/
 - Paho MQTT Python client
   - https://pypi.org/project/paho-mqtt/
+
+## Resources
+- https://www.thechickengeek.com/knowing-ideal-temperature-for-chickens/
