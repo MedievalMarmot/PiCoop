@@ -29,6 +29,7 @@ sorts of weather) but I thought it'd be a good project to learn some new technol
 - GeeekPi IIC I2C TWI Serial LCD 2004 20x4 Display Module with I2C Interface Adapter
   - http://wiki.sunfounder.cc/index.php?title=I2C_LCD2004
   - Note: I may replace this LCD as it overheats during the day with the backlight on outdoors and causes I2C issues (works great when cool)
+  - Note 2: I'm going to attempt to hook the LCD to another ESP32 and have it pull MQTT messages and display appr. output from there.
 - TSL25911FN Ambient Light Sensor (1)
   - https://www.cqrobot.com/index.php?route=product/product&product_id=1112
   - https://www.waveshare.com/wiki/TSL25911_Light_Sensor
@@ -45,6 +46,9 @@ sorts of weather) but I thought it'd be a good project to learn some new technol
 - HiLetgo GY-521 MPU-6050 MPU6050 3 Axis Accelerometer Gyroscope Module
   - https://www.electronicwings.com/raspberry-pi/mpu6050-accelerometergyroscope-interfacing-with-raspberry-pi
   - https://www.electronicwings.com/sensors-modules/mpu6050-gyroscope-accelerometer-temperature-sensor-module
+- MakerFocus Raspberry Pi 4 Battery Pack UPS, RPI Pack Standard 4000mAh Raspberry Pi Battery USB Pack Raspberry Pi Latest Version V3Plus Expansion Board
+  - https://www.makerfocus.com/products/raspberry-pi-expansion-board-ups-pack-standard-power-supply
+  - https://github.com/rcdrones/UPSPACK_V3/blob/master/README_en.md
 
 ## Operating System:
 - RaspianOS 64 bit
