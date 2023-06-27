@@ -1,13 +1,15 @@
 # PiCoop
 ## Raspberry Pi / ESP32 Chicken Coop environmental monitoring and control.
 
-(This is a work in progres)
+(This is a work in progress)
 
 This is a personal project I put together to monitor and maintain our chicken coop's environment and keep it relatively stable
 through the ups and downs of the PNW annual seasons. According to the research we've done chickens are quite happy being in an
 environment between 65-75 degrees F. Anything outside of that can apparently cause distress, especially in laying hens. This 
 little IoT chicken coop project is probably overkill for raising happy chickens (several people just let them roam free in all
 sorts of weather) but I thought it'd be a good project to learn some new technology stacks while keeping our hens happy :)
+
+DISCLAIMER: A lot of this is hard-coded to meet my needs / prototyping (thus the bodge code) - feel free to refactor it for your own use!
 
 ## Design Goals:
 - Monitor the outside and inside environments of our chicken coop
@@ -23,7 +25,7 @@ sorts of weather) but I thought it'd be a good project to learn some new technol
 
 ## Hardware:
 - Raspberry Pi 4 8GB RAM / 128GB SD
-- ESP32 MCU ESP32S Development Board
+- ESP32 MCU ESP32S Development Board (3)
 
 ## Input / Output:
 - GeeekPi IIC I2C TWI Serial LCD 2004 20x4 Display Module with I2C Interface Adapter
